@@ -1,9 +1,9 @@
 {
   "name": "tv.monry.upm.test",
   "dependencies": {
-      "tv.monry.upm.dependent": "git://github.com/monry/upm-dependent.git"
-  },    
-  "version": "1.0.0",
+    "tv.monry.upm.dependent": "git://github.com/monry/upm-dependent.git"
+  },
+  "version": "1.0.1",
   "unity": "2018.2",
   "displayName": "Monry Test",
   "description": "",
